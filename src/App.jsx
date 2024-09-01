@@ -1,4 +1,4 @@
-import React from 'react'
+import {React, useEffect} from 'react'
 import Navbar from './components/Navbar'
 import Hero from './Components/Hero'
 // import Pricing from './Components/Pricing'
@@ -8,6 +8,10 @@ import Contact from './Components/Contact'
 import Footer from './Components/Footer'
 
 const App = () => {
+  useEffect(() => {
+    alert('hey well come to my website')
+  }, [])
+  
   return (
     <>
       <Navbar/>
