@@ -12,9 +12,9 @@ const App = () => {
     <>
       <Navbar/>
       <Hero/>
+      {/* <Contact/> */}
       <Static/>
       <Testimonial/>
-      <Contact/>
       <Footer/>
     </>
   )

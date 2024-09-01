@@ -3,7 +3,7 @@ import React from 'react'
 const Testimonial = () => {
     return (
         <>
-            <section className="text-gray-600 body-font">
+            <section className="text-white body-font">
                 <div className="container px-5 py-14 mx-auto" bis_skin_checked={1}>
                     <div className="flex flex-wrap -m-4" bis_skin_checked={1}>
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4" bis_skin_checked={1}>
@@ -20,10 +20,10 @@ const Testimonial = () => {
                                     fanny pack vaporware.
                                 </p>
                                 <span className="inline-block h-1 w-10 rounded bg-yellow-500 mt-6 mb-4" />
-                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
+                                <h2 className="font-medium title-font tracking-wider text-sm">
                                     Jawad Akhtair
                                 </h2>
-                                <p className="text-gray-500">Ui designer</p>
+                                <p>Ui designer</p>
                             </div>
                         </div>
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4" bis_skin_checked={1}>
@@ -40,10 +40,10 @@ const Testimonial = () => {
                                     fanny pack vaporware.
                                 </p>
                                 <span className="inline-block h-1 w-10 rounded bg-yellow-500 mt-6 mb-4" />
-                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
+                                <h2 className="font-medium title-font tracking-wider text-sm">
                                     Asher Khan
                                 </h2>
-                                <p className="text-gray-500">UI Develeoper</p>
+                                <p>UI Develeoper</p>
                             </div>
                         </div>
                         <div className="lg:w-1/3 lg:mb-0 p-4" bis_skin_checked={1}>
@@ -60,10 +60,10 @@ const Testimonial = () => {
                                     fanny pack vaporware.
                                 </p>
                                 <span className="inline-block h-1 w-10 rounded bg-yellow-500 mt-6 mb-4" />
-                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
+                                <h2 className="font-medium title-font tracking-wider text-sm">
                                     Haseeb Ur Rehman
                                 </h2>
-                                <p className="text-gray-500">Senior Product Designer</p>
+                                <p>Senior Product Designer</p>
                             </div>
                         </div>
                     </div>

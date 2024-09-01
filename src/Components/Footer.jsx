@@ -16,28 +16,28 @@ const Footer = () => {
                                 alt="Flowbite Logo"
                             />
                             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                                Flowbite
+                            Finenace
                             </span>
                         </a>
                         <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                             <li>
-                                <a href="#" className="hover:underline me-4 md:me-6">
-                                    About
+                                <a href="https://www.instagram.com/haseeburrehmanjs/" target="blank" className="hover:underline me-4 md:me-6">
+                                    Instagram
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:underline me-4 md:me-6">
-                                    Privacy Policy
+                                <a target='_blank' href="https://github.com/haseeburrehmanjs" className="hover:underline me-4 md:me-6">
+                                    Github
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:underline me-4 md:me-6">
-                                    Licensing
+                                <a href="www.linkedin.com/in/kamranahmedjs" target='_blank' className="hover:underline me-4 md:me-6">
+                                    Linkedin
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:underline">
-                                    Contact
+                                <a href="https://www.facebook.com/haseeburrehmanjs" target="blank" className="hover:underline">
+                                    Facebook
                                 </a>
                             </li>
                         </ul>
@@ -47,8 +47,7 @@ const Footer = () => {
                         © 2023{" "}
                         <a target='_black' href="https://github.com/haseeburrehmanjs" className="hover:underline">
                             Haseeburrehmanjs™
-                        </a>
-                        . All Rights Reserved.
+                        </a> All Rights Reserved.
                     </span>
                 </div>
             </footer>
