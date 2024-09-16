@@ -5,11 +5,3 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 })
-
-const nextConfig = {
-  eslint: {
-      ignoreDuringBuilds: true,
-  },
-}
-
-module.exports = nextConfig
